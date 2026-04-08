@@ -1,4 +1,4 @@
-module edu.utsa.cs3443.demojava {
+module edu.utsa.cs.demojava {
     requires javafx.controls;
     requires javafx.fxml;
 
